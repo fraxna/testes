@@ -126,8 +126,9 @@
   }
   .ck {
     background-color: brown;
+    width:100%;
     position: absolute;
-    right: 40%;
+    right: 0;
     bottom: 0;
     color: whitesmoke;
     font-weight:1000 ;
